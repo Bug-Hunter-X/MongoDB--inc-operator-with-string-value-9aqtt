@@ -1,0 +1,2 @@
+# MongoDB $inc operator with string value
+This example demonstrates an incorrect usage of the `$inc` operator in MongoDB, where a string value is used instead of a number.  This results in the update operation failing silently or producing unexpected results. The solution shows the correct way to use the `$inc` operator with a numeric value.
